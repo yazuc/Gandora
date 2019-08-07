@@ -3,7 +3,7 @@ public class carro {
 	private float quilometragem;
 	private float tanque, capacidade;
 	
-	public Carro(int cpde) {
+	public carro(int cpde) {
 		capacidade=cpde;
 	}
 	
